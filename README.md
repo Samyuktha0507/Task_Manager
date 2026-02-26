@@ -68,7 +68,7 @@ lib/
 
 2. **Clone and open**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Samyuktha0507/Task_Manager.git
    cd task_manager_app
    ```
 
@@ -127,8 +127,8 @@ lib/
 
 ## Device / Emulator Used for Testing
 
-- **Device/Emulator**: *(e.g. Pixel 6 API 34 / iOS Simulator iPhone 15 / Chrome)*
-- **OS**: *(e.g. Android 14 / iOS 17 / Windows 11)*
+- **Device/Emulator**: Chrome (Flutter Web)
+- **OS**: Windows 11
 
 *(Fill this in after you run and test the app.)*
 
