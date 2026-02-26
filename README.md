@@ -143,4 +143,4 @@ lib/
 
 ## License
 
-This project is for educational/demo purposes.
+This project is for demo purposes.
